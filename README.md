@@ -1,4 +1,4 @@
-# Investigating the Yelp Open Dataset using PySpark and Spark SQL
+## Investigating the Yelp Open Dataset using PySpark and Spark SQL
 
 This project was my final assignment for Distributed Computing for Big Data, a postgraduate course in the LSE statistics department. 
 
